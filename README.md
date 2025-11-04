@@ -19,4 +19,9 @@ The Canny filter clearly produced the best, thinnest, and most accurate edges. I
 
 The Otsu method is essentially a smart way of doing histogram thresholding. Instead of guessing where to put the dividing line between 'object' and 'background' brightness, Otsu automatically picks the value that gives the best separation.
 
-![images]()
+![images](https://github.com/Khan548-codes/Lab-5-Edge-Detection-and-Segmentation/blob/main/images/ss1.png)
+![images](https://github.com/Khan548-codes/Lab-5-Edge-Detection-and-Segmentation/blob/main/images/ss2.png)
+![images](https://github.com/Khan548-codes/Lab-5-Edge-Detection-and-Segmentation/blob/main/images/ss3.png)
+![images](https://github.com/Khan548-codes/Lab-5-Edge-Detection-and-Segmentation/blob/main/images/ss4.png)
+![images](https://github.com/Khan548-codes/Lab-5-Edge-Detection-and-Segmentation/blob/main/images/ss5.png)
+![images](https://github.com/Khan548-codes/Lab-5-Edge-Detection-and-Segmentation/blob/main/images/ss6.png)
